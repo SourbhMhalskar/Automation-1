@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+}
+
+.blue {
+    height: 40px;
+    width: 1500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.auto {
+    color: white;
+    margin-left: -300px;
+    margin-top: -1px;
+    align-items: center;
+
+
+}
+
+.log {
+    display: flex;
+    margin-top: -7px;
+    color: white;
+}
+
+.fm {
+    margin-left: 500px;
+}

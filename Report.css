@@ -1,0 +1,49 @@
+body {
+    margin: 0;
+}
+
+.blue {
+    height: 40px;
+    width: 1500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.auto {
+    color: white;
+    margin-left: -300px;
+    margin-top: -1px;
+    align-items: center;
+
+
+}
+
+.log {
+    display: flex;
+    margin-top: -7px;
+    color: white;
+}
+
+.th {
+    background-color: blue;
+}
+
+.ta {
+    margin-left: 150px;
+    margin-top: 100px;
+}
+
+.kl {
+    height: 40px;
+    width: 1300px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 20px;
+    margin-top: 50px;
+
+}

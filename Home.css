@@ -1,0 +1,76 @@
+body {
+    margin: 0;
+}
+
+.blue {
+    height: 40px;
+    width: 1500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.auto {
+    color: white;
+    margin-left: -300px;
+    margin-top: -1px;
+    align-items: center;
+
+
+}
+.log {
+    display: flex;
+    margin-top: -7px;
+    color:black;
+}
+
+img {
+    height: 400px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.immg {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.us {
+    margin-left: 20px;
+    margin-top: 60px;
+}
+
+.One {
+    margin-left: 20px;
+}
+
+.How {
+    margin-left: 20px;
+}
+
+.Cho {
+    margin-left: 20px;
+}
+
+.book {
+    margin-left: 20px;
+}
+
+.car {
+    margin-left: 20px;
+}
+
+.kl {
+    height: 40px;
+    width: 1300px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    margin-right: 20px;
+    margin-top: 40px;
+
+}

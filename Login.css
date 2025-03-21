@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+}
+
+.blue {
+    height: 40px;
+    width: 1500px;
+    background-color: blue;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.auto {
+    color: white;
+    margin-left: -300px;
+    margin-top: -1px;
+    align-items: center;
+
+
+}
+
+.log {
+    display: flex;
+    margin-top: -7px;
+    color: white;
+}
+
+button {
+    border-radius: 1px balck;
+    background-color: blue;
+}
+
+.fm {
+    margin-left: 520px;
+    margin-top: 170px;
+}
+
+.hj {
+    height: 40px;
+    width: 1300px;
+    background-color: blue;
+    color: white;
+    text-align: center;
+    margin-right: 20px;
+    margin-top: 125px;
+}
+a
+{
+    
+}
